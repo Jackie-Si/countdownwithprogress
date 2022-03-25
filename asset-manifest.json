@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/countdownwithprogress/static/js/main.366ee47e.js",
-    "index.html": "/countdownwithprogress/index.html",
-    "main.366ee47e.js.map": "/countdownwithprogress/static/js/main.366ee47e.js.map"
+    "main.js": "/multievent_countdown/static/js/main.366ee47e.js",
+    "index.html": "/multievent_countdown/index.html",
+    "main.366ee47e.js.map": "/multievent_countdown/static/js/main.366ee47e.js.map"
   },
   "entrypoints": [
     "static/js/main.366ee47e.js"
